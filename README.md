@@ -6,6 +6,7 @@
 
 
 ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=jujulio&show_icons=true&theme=dracula&count_private=true)
+![Julio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jujulio&theme=blue-green)
 
 
 ## Tecnologias que eu uso no meu dia
@@ -18,3 +19,4 @@
 </div><br/>
 
 Apaixonado por tecnologia e por aprender cada vez mais.
+
